@@ -1,4 +1,4 @@
-<%@page import="net.jforum.util.preferences.*" %>
+<%@page import="ua.homca.jforum.util.preferences.*" %>
 <%@page import="java.io.File" %>
 <%
 	String cfg = SystemGlobals.getValue(ConfigKeys.INSTALLATION_CONFIG);

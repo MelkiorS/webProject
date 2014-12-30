@@ -4,7 +4,7 @@
 
    <!-- Configure the TransactionManager -->
    <!-- <transaction transactionManagerLookupClass="org.jboss.cache.transaction.GenericTransactionManagerLookup"/> -->
-   <transaction transactionManagerLookupClass="net.jforum.cache.JForumTransactionManagerLookup"/>   
+   <transaction transactionManagerLookupClass="ua.homca.jforum.cache.JForumTransactionManagerLookup"/>
 
    <clustering mode="replication">
       <!-- JGroups protocol stack properties. -->

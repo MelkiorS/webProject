@@ -361,7 +361,7 @@
 	<!-- Javadoc -->
 	<match name="javadoc" lockedForSmilies="javadoc">
 		<regex>(?i)\[javadoc\](.*?)\[/javadoc\]</regex>
-		<class-name>net.jforum.util.bbcode.JavaDocLink</class-name>
+		<class-name>ua.homca.jforum.util.bbcode.JavaDocLink</class-name>
 	</match>
 
 </bbConfig>
